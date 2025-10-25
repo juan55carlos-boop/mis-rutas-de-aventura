@@ -1,0 +1,72 @@
+{
+  "app": {
+    "name": "My Adventure Routes",
+    "title": "Mis Rutas de Aventura",
+    "description": "Discover, create and share adventure routes"
+  },
+  "nav": {
+    "home": "Home",
+    "routes": "Routes",
+    "create": "Create Route",
+    "profile": "Profile",
+    "login": "Login",
+    "logout": "Logout",
+    "register": "Register"
+  },
+  "routes": {
+    "title": "Adventure Routes",
+    "create": "Create New Route",
+    "edit": "Edit Route",
+    "delete": "Delete Route",
+    "favorite": "Add to Favorites",
+    "share": "Share",
+    "difficulty": {
+      "easy": "Easy",
+      "moderate": "Moderate",
+      "hard": "Hard",
+      "expert": "Expert"
+    },
+    "distance": "Distance",
+    "duration": "Estimated Duration",
+    "elevation": "Elevation Gain",
+    "startPoint": "Start Point",
+    "endPoint": "End Point",
+    "description": "Description",
+    "photos": "Photos",
+    "reviews": "Reviews",
+    "rating": "Rating"
+  },
+  "map": {
+    "search": "Search location",
+    "layers": "Map Layers",
+    "satellite": "Satellite",
+    "terrain": "Terrain",
+    "standard": "Standard"
+  },
+  "user": {
+    "profile": "Profile",
+    "myRoutes": "My Routes",
+    "favorites": "Favorites",
+    "settings": "Settings",
+    "username": "Username",
+    "email": "Email",
+    "password": "Password",
+    "name": "Full Name",
+    "bio": "Biography"
+  },
+  "form": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "submit": "Submit",
+    "required": "This field is required",
+    "invalidEmail": "Invalid email address",
+    "passwordMismatch": "Passwords do not match"
+  },
+  "messages": {
+    "success": "Operation completed successfully",
+    "error": "An error occurred",
+    "loading": "Loading...",
+    "noResults": "No results found",
+    "confirmDelete": "Are you sure you want to delete this?"
+  }
+}
